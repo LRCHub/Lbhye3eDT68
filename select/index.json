@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "盲目のヒーロー",
+  "base_artist": "アルカルト",
+  "createdAt": "2026-02-17T01:22:16.652406Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "盲目のヒーロー",
+      "artist": "アルカルト",
+      "has_synced": false,
+      "path": "select/pl_01_盲目のヒーロー_アルカルト.txt"
+    }
+  ]
+}
